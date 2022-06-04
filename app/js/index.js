@@ -1,13 +1,13 @@
-import '@babel/polyfill'
+import "@babel/polyfill";
 
-import './fix'
+import "./fix";
 
-import '../vendors/vendors'
+import "../vendors/vendors";
 
-import './helpers'
+import "./helpers";
 
-import './common-libs'
-import './blocks'
-import '../svg-sprite'
+import "./common-libs";
+import "./blocks";
+import "../svg-sprite";
 
-import '../scss/main.scss'
+import "../scss/main.scss";
